@@ -6,7 +6,17 @@
     "date": "2026-06-29",
     "image": "assets/operations.jpg",
     "thumb": "assets/operations-thumb.webp",
-    "reflection": "This was the first activity, and honestly it felt more like algebra than calculus. Adding, subtracting, multiplying and dividing functions isn't hard on its own, but one dropped negative sign throws off the whole answer. I learned to slow down, simplify one step at a time, and check which x-values are actually allowed before calling it done."
+    "reflection": "This activity shows that I can combine and compose functions and state the domain of each result. At the start of the semester I treated it as plain algebra and rushed, which is how sign errors crept in. Working through each part step by step, and checking which x-values were allowed, is where I began building the careful habits the rest of the course depends on. Finishing it gave me a solid base for limits and derivatives.",
+    "author": "Timothy Jyrus Tique",
+    "description": "Operations on Functions, completed on June 29, 2026, is the first activity of my IT Calculus course. In it I evaluated the sum, difference, product, quotient and composition of given functions. It matters because every later topic, from limits to integrals, depends on handling functions correctly, so this page is the starting line of my portfolio.",
+    "goals": {
+      "short": "Write out every substitution when composing functions, and always state the domain.",
+      "long": "Make my function algebra fast and accurate enough that it never slows me down in later math or programming courses."
+    },
+    "critique": {
+      "issue": "Looking at it now, my work is correct but cramped. Some steps are squeezed together, and I did not always write the domain next to each result, which makes the solution harder to follow and check.",
+      "alternative": "If I redid it, I would give each part its own space, write the combined function before simplifying, and add a one-line domain statement under every answer."
+    }
   },
   {
     "id": "derivatives",
@@ -15,7 +25,17 @@
     "date": "2026-07-02",
     "image": "assets/derivatives.jpg",
     "thumb": "assets/derivatives-thumb.webp",
-    "reflection": "This is where the power rule finally clicked for me: bring the exponent down, subtract one, and move on. The tricky part was negative and fractional exponents, where it's easy to subtract wrong. I also had to keep reminding myself that a constant just disappears, since its derivative is zero."
+    "reflection": "This activity shows I can apply the power rule to any exponent. At first the negative and fractional cases tripped me up, because subtracting one from them felt unnatural. By the end of the set I was rewriting roots and fractions as powers before differentiating, so every problem followed the same pattern. This is where differentiation stopped being a rule I memorized and became something I understood.",
+    "author": "Timothy Jyrus Tique",
+    "description": "Introduction to Derivatives, completed on July 2, 2026, is a set of power-rule exercises with positive, negative and fractional exponents. It matters because it is my first real step into differential calculus, the point where the course moved from describing functions to measuring how they change.",
+    "goals": {
+      "short": "Rewrite every root and fraction as a power before I differentiate.",
+      "long": "Understand derivatives as rates of change well enough to use them in real problems, not just exercises."
+    },
+    "critique": {
+      "issue": "My answers follow the rule, but I often jumped straight to the final form without showing how I rewrote roots and fractions as powers. Anyone checking my work cannot see where a mistake might have happened.",
+      "alternative": "A better approach is to add a 'rewrite' line before every derivative and box the final answer, so each step can be checked on its own."
+    }
   },
   {
     "id": "prelim-quiz",
@@ -24,7 +44,17 @@
     "date": "2026-07-06",
     "image": "assets/prelim-quiz.jpg",
     "thumb": "assets/prelim-quiz-thumb.webp",
-    "reflection": "This quiz put everything from the first few weeks into one sitting, so I couldn't lean on just one topic. Looking back at my answers, the slip-ups came less from not knowing the rules and more from skipping steps. Writing out the in-between work takes longer, but it makes mistakes so much easier to catch."
+    "reflection": "This quiz shows I can switch between topics and recognize which method each problem needs. Looking back, my slip-ups came less from not knowing the rules and more from skipping steps to save time. Seeing that pattern was an accomplishment in itself: my weak spot is carelessness, not understanding, and writing out the in-between work is worth the extra minute.",
+    "author": "Timothy Jyrus Tique",
+    "description": "The Prelim Quiz, taken on July 6, 2026, tested the early topics together in one timed sitting. It matters as the first measure of how well I could apply what I had learned without guidance, and it showed me exactly which study habits needed work.",
+    "goals": {
+      "short": "Show the intermediate steps on every problem, even the easy ones.",
+      "long": "Build exam habits (pacing, checking and showing my work) that hold up under time pressure in every course."
+    },
+    "critique": {
+      "issue": "Some of my answers have little or no supporting work, so even the correct ones would be hard to defend, and the errors I did make are hard to trace back to their cause.",
+      "alternative": "Next time I would budget my time per question, write at least one supporting line for every answer, and save the last few minutes to recheck the questions I rushed."
+    }
   },
   {
     "id": "infographics",
@@ -33,7 +63,17 @@
     "date": "2026-07-13",
     "image": "assets/infographics.jpg",
     "thumb": "assets/infographics-thumb.webp",
-    "reflection": "Making this infographic was a nice break from solving problems. Looking into how functions and limits show up in medicine, computing and the environment made calculus feel a lot less abstract. It isn't just symbols on a worksheet; it's a way of describing things that change."
+    "reflection": "Making this infographic pushed me beyond solving problems to explaining ideas. It shows I can research how calculus is used, connect it to real situations and communicate it visually, which is a different skill from computing answers. It is also where calculus first felt relevant to my field, since so much of computing is about modelling change.",
+    "author": "Timothy Jyrus Tique",
+    "description": "Calculus Infographics, completed on July 13, 2026, is a visual poster showing how functions and limits are applied in health, engineering, technology and economics. It matters because it is the one piece in my portfolio that explains calculus to an audience instead of solving problems, and it links the course to real-world fields, including my own.",
+    "goals": {
+      "short": "Explain each new topic in my own words, the way I did in this infographic.",
+      "long": "Use calculus to model and explain real systems in my IT and cybersecurity work."
+    },
+    "critique": {
+      "issue": "The design is eye-catching, but some sections carry a lot of small text, which makes the page dense and hard to read at a glance. A few applications are described in general terms rather than shown with an actual function or limit.",
+      "alternative": "To improve it, I would cut each section down to one short sentence and add one concrete formula per field, such as a growth function in medicine, so the math is visible and not just mentioned."
+    }
   },
   {
     "id": "prelim-exam",
@@ -42,7 +82,17 @@
     "date": "2026-07-14",
     "image": "assets/prelim-exam.jpg",
     "thumb": "assets/prelim-exam-thumb.webp",
-    "reflection": "The prelim exam was the first real test of whether the basics had stuck. Some parts went smoothly and some made me second-guess myself. Going back through it, I want to understand why each answer works, not just whether it's right, and make checking my work a habit before I hand anything in."
+    "reflection": "Completing this exam shows I can work through the foundations of calculus without notes and under time pressure. Some parts went smoothly; others made me second-guess myself. Reviewing it afterwards, I focused on why each answer works rather than only whether it was right, and that changed how I studied for the rest of the semester.",
+    "author": "Timothy Jyrus Tique",
+    "description": "The Prelims Exam, taken on July 14, 2026, closed the first term and covered functions, limits and the beginnings of differentiation. It matters as the formal checkpoint of my foundations: it showed what I had truly understood and what I had only memorized.",
+    "goals": {
+      "short": "Review every exam by redoing the questions I hesitated on, not just the ones I got wrong.",
+      "long": "Study for understanding, so I can explain why a method works instead of only repeating it."
+    },
+    "critique": {
+      "issue": "My hesitation shows on the page in changed answers and corrections on questions I should have been sure of. That tells me parts of my preparation were rote practice rather than real understanding.",
+      "alternative": "A more effective way to prepare would be to explain each topic out loud or to a classmate before the exam, and to practise mixed problem sets instead of one topic at a time."
+    }
   },
   {
     "id": "differentiation",
@@ -51,7 +101,17 @@
     "date": "2026-07-30",
     "image": "assets/differentiation.jpg",
     "thumb": "assets/differentiation-thumb.webp",
-    "reflection": "With so many differentiation formulas, the hard part wasn't applying a rule. It was picking the right one. Taking each expression one term at a time helped a lot, and keeping my coefficients and exponents lined up neatly made the work much easier to check afterward."
+    "reflection": "This activity shows I can pick the right rule for each term and apply it accurately. Compared with the start of midterms, I work faster now because I break an expression into terms and handle one at a time, keeping coefficients and exponents lined up so my work is easy to check. That organization is a clear improvement over my earlier, messier solutions.",
+    "author": "Timothy Jyrus Tique",
+    "description": "Basic Differentiation Formulas, completed on July 30, 2026, opens the midterm term with practice on the sum, product, quotient and constant rules. It matters because these formulas are the toolkit for every derivative that follows, and this activity is where I learned to choose between them quickly.",
+    "goals": {
+      "short": "Decide which rule fits each term before writing anything, then check one term at a time.",
+      "long": "Make differentiation automatic, so I can focus on the problem it is being used to solve."
+    },
+    "critique": {
+      "issue": "My solutions are accurate, but on longer expressions I sometimes simplified too early and ended up with crowded lines that are hard to check. In places, the rule I used is not obvious from the work.",
+      "alternative": "I would label the rule above each step (for example, 'product rule'), finish differentiating first, and only simplify once everything is written out."
+    }
   },
   {
     "id": "chain-rule",
@@ -60,7 +120,17 @@
     "date": "2026-07-31",
     "image": "assets/chain-rule.jpg",
     "thumb": "assets/chain-rule-thumb.webp",
-    "reflection": "The chain rule confused me at first because everything seemed to happen at once. What helped was splitting the function into an outside layer and an inside layer. Once I could see the layers, the steps made sense: differentiate the outside, leave the inside alone, then multiply by the derivative of the inside. That last part is the one I kept forgetting."
+    "reflection": "The chain rule confused me at first because everything seemed to happen at once. This activity shows how I worked through that: splitting each function into an outer and an inner layer, differentiating the outside, then multiplying by the derivative of the inside. That last step is the one I used to forget, and by the end of the set I was catching it consistently.",
+    "author": "Timothy Jyrus Tique",
+    "description": "The Chain Rule, completed on July 31, 2026, focuses on differentiating composite functions. It matters because the chain rule underlies nearly every advanced derivative technique, and this activity marks when I started seeing functions as layers instead of single expressions.",
+    "goals": {
+      "short": "Label the inner and outer functions on paper before differentiating any composite function.",
+      "long": "Get comfortable with nested functions, which show up everywhere from physics formulas to code."
+    },
+    "critique": {
+      "issue": "In the earlier problems I did not always make clear what the inner function was, which is exactly where the chain rule goes wrong. My work relies on doing it in my head instead of showing it.",
+      "alternative": "A practical fix is to write 'u = …' and 'du/dx = …' beside each problem before differentiating, so the inner function and its derivative are never skipped."
+    }
   },
   {
     "id": "implicit",
@@ -69,7 +139,17 @@
     "date": "2026-08-20",
     "image": "assets/implicit.jpg",
     "thumb": "assets/implicit-thumb.webp",
-    "reflection": "This activity mixed implicit, exponential and trig derivatives, so I had to figure out what kind of function I was looking at before doing anything. Implicit differentiation took the most getting used to, especially remembering the dy/dx every time I differentiated a y term. I learned to apply the rules first and only simplify at the very end."
+    "reflection": "This activity shows I can identify the type of function first and then choose the right approach. Implicit differentiation took the most getting used to, especially remembering dy/dx every time I differentiated a y term. Applying the rules first and simplifying only at the end made my answers much more reliable, and finishing this set gave me confidence going into integration.",
+    "author": "Timothy Jyrus Tique",
+    "description": "Implicit, Exponential & Trig, completed on August 20, 2026, combines three kinds of derivatives in a single activity. It matters because it is the most varied set from my midterms, testing whether I could recognize which rule a problem needs without being told.",
+    "goals": {
+      "short": "Mark every y term in implicit problems so I never miss its dy/dx.",
+      "long": "Handle unfamiliar, mixed problems calmly by identifying their structure before I start."
+    },
+    "critique": {
+      "issue": "Implicit problems were my weakest part of this set. The step where I gather the dy/dx terms and solve for dy/dx is not always clearly shown, so the final answer can look like it appears out of nowhere.",
+      "alternative": "Next time I would mark every y term before starting, collect the dy/dx terms on one side as a separate step, and verify one answer by substituting a point."
+    }
   },
   {
     "id": "integral-drills",
@@ -78,7 +158,17 @@
     "date": "2026-09-14",
     "image": "assets/integral-drills.jpg",
     "thumb": "assets/integral-drills-thumb.webp",
-    "reflection": "Integration felt like doing derivatives in reverse, which sounds simple but took real practice. These drills helped me spot the forms I could integrate right away. I also got into the habit of writing + C every time, and differentiating my answer to make sure it gives back the original function."
+    "reflection": "These drills show I can recognize standard forms and integrate them directly. Integration felt like working derivatives in reverse: simple in theory, but it took practice. Two habits came out of this activity, writing + C every time and differentiating my answer to check it, and they mean I can now catch my own mistakes instead of waiting for them to be marked.",
+    "author": "Timothy Jyrus Tique",
+    "description": "Integral Drills, completed on September 14, 2026, starts the finals term with practice on basic antiderivatives. It matters because integration is the second half of calculus, and these drills are where I built the speed and checking habits I relied on for the rest of the term.",
+    "goals": {
+      "short": "Check every antiderivative by differentiating it before moving on.",
+      "long": "Use integration confidently for areas, accumulation and other applications in future courses."
+    },
+    "critique": {
+      "issue": "The drills are mostly answers, with few checks written down. Even though checking by differentiation is the quickest way to confirm an antiderivative, the page does not show that I did it.",
+      "alternative": "I would add a one-line derivative check under each answer, and group the problems by form while practising so I learn to recognize patterns faster."
+    }
   },
   {
     "id": "trig-integration",
@@ -87,7 +177,17 @@
     "date": "2026-09-21",
     "image": "assets/trig-integration.jpg",
     "thumb": "assets/trig-integration-thumb.webp",
-    "reflection": "Trig integrals showed me that a problem that looks impossible can become manageable once it's rewritten. Choosing the right identity or substitution makes a huge difference. Next time I want to take a moment to plan my approach before diving in, instead of switching methods halfway through."
+    "reflection": "This activity shows I can use identities and substitution to simplify an integrand before integrating. My growth here is in planning: earlier I would start calculating and switch methods halfway through, but by this point I was taking a moment to choose an identity first. That shift from rushing to planning is probably my most important improvement this semester.",
+    "author": "Timothy Jyrus Tique",
+    "description": "Trigonometric Integration, completed on September 21, 2026, applies identities and substitution to integrals of trigonometric functions. It matters because it shows that rewriting a problem is often the key step, which is the most transferable lesson of the finals term.",
+    "goals": {
+      "short": "Keep a list of the key trig identities and choose one before starting each integral.",
+      "long": "Approach any complex problem, in math or in programming, by planning my method before diving in."
+    },
+    "critique": {
+      "issue": "On a few problems the work does not show which identity I chose or why, so a reader has to reverse-engineer my reasoning. When a first attempt did not work, the restart makes the page harder to follow.",
+      "alternative": "A better approach is to write the identity or substitution I plan to use at the top of each problem before calculating, and to keep an identity sheet on hand while practising."
+    }
   },
   {
     "id": "finals-quiz",
@@ -96,6 +196,16 @@
     "date": "2026-10-01",
     "image": "assets/finals-quiz.jpg",
     "thumb": "assets/finals-quiz-thumb.webp",
-    "reflection": "The finals quiz pulled all the integration techniques together. My biggest takeaway is to read the integrand carefully before picking a method, and to save a few minutes at the end to check my answers by differentiating them. It was a good way to close the semester and see how far I've come since operations on functions."
+    "reflection": "This quiz shows I can look at an integrand, decide on a method, carry it out and check the result. Compared with my prelim work, my solutions are more organized and I make fewer careless errors, because checking has become a habit. Completing it was a fitting end to the semester and proof that steady practice paid off.",
+    "author": "Timothy Jyrus Tique",
+    "description": "The Finals Quiz, taken on October 1, 2026, is the last activity in my portfolio and brings all the integration techniques together. It matters because it closes the semester and shows how my work changed from the first activity on June 29 to the end of the course.",
+    "goals": {
+      "short": "Leave time at the end of every test to verify my answers by differentiating them.",
+      "long": "Keep building on calculus in later subjects, along with the habits of planning, showing my work and checking it that I built this semester."
+    },
+    "critique": {
+      "issue": "My work is cleaner than in prelims, but under time pressure some steps are still compressed, and the checks I did are not always written down.",
+      "alternative": "For future exams I would reserve the last five minutes only for checking, and practise timed sets beforehand so that showing every step feels natural even when I am rushed."
+    }
   }
 ]

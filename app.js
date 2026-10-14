@@ -73,9 +73,8 @@ function renderActivity() {
   const a = modalActivities[selectedIndex];
   $('#modal-title').textContent = a.title;
   $('#modal-chapter').textContent = a.term;
-  const [topics, focus] = learningNotes[a.id];
+  const [topics] = learningNotes[a.id];
   $('#modal-topics').replaceChildren(...topics.map(text=>{const tag=document.createElement('span');tag.textContent=text;return tag;}));
-  $('#modal-focus').textContent = focus;
   setZoom(false);
   $('#modal-term').textContent = a.term;
   $('#modal-date').dateTime = a.date;
@@ -83,7 +82,12 @@ function renderActivity() {
   $('#modal-image').src = a.image;
   $('#modal-image').alt = `${a.title} — original submitted work`;
   $('#original-link').href = a.image;
+  $('#modal-description').textContent = a.description;
   $('#modal-reflection').textContent = a.reflection;
+  $('#modal-goal-short').textContent = a.goals.short;
+  $('#modal-goal-long').textContent = a.goals.long;
+  $('#modal-critique').textContent = a.critique.issue;
+  $('#modal-alternative').textContent = a.critique.alternative;
   $('#modal-position').textContent = `Activity ${selectedIndex+1} of ${modalActivities.length}`;
   $('#pdf-link').hidden = a.id !== 'infographics';
   $('#previous').disabled = selectedIndex === 0;
@@ -99,7 +103,7 @@ function play(el,frames,options){
 }
 // Only the effects started here; the CSS floating loops inside the popup keep running.
 const clearPlayed=()=>dialog.getAnimations({subtree:true}).filter(a=>!(a instanceof CSSAnimation)&&!(a instanceof CSSTransition)).forEach(a=>a.cancel());
-const contentParts=(withToolbar=true)=>[...dialog.querySelectorAll(`${withToolbar?'.modal-toolbar,':''}.scan-frame,.scan-note,.modal-meta,#modal-title,.title-stroke,.modal-topics span,.reflection,.focus-note,#pdf-link:not([hidden]),.modal-navigation`)];
+const contentParts=(withToolbar=true)=>[...dialog.querySelectorAll(`${withToolbar?'.modal-toolbar,':''}.scan-frame,.scan-note,.modal-meta,#modal-title,.title-stroke,.modal-topics span,.about-work,.reflection,.goal,.critique,#pdf-link:not([hidden]),.modal-navigation`)];
 function revealContent(baseDelay=0,dir=0,withToolbar=true){
   contentParts(withToolbar).forEach((el,i)=>{
     const delay=baseDelay+i*45;
